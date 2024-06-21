@@ -2,4 +2,4 @@
 
 This repository contains an R script that was used to generate figures for our _Lingula anatina_ genome paper.
 
-A preprint for the paper will be available on BioRxiv in the coming days.
+The preprint is currently available on BioRxiv: Lewin et al. 2024. "Brachiopod genome unveils the evolution of the BMP–Chordin network in bilaterian body patterning" BioRxiv. https://www.biorxiv.org/content/10.1101/2024.05.28.596352v1
